@@ -25,7 +25,7 @@ const Navbar = () => {
                             alt="Logo" 
                             className="h-16 w-auto mr-2" 
                         />
-                        <span className="text-white font-bold text-xl">KMK</span>
+                       
                     </div>
                     <div className="hidden md:flex space-x-4 font-title">
                         <button 
