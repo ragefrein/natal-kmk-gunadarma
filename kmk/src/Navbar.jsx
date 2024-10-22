@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 
+
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
 
@@ -20,7 +21,7 @@ const Navbar = () => {
                 <div className="flex justify-between items-center h-16">
                     <div className="flex items-center">
                         <img 
-                            src="./img/logo.png" 
+                            src="https://i.imgur.com/rxNLMDT.png" 
                             alt="Logo" 
                             className="h-16 w-auto mr-2" 
                         />
