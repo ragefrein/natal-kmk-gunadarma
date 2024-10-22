@@ -45,7 +45,7 @@ function App() {
                     </div>
                     <div className="md:w-1/2 mt-8 md:mt-0 flex justify-center">
                         <img
-                            src="https://via.placeholder.com/400"
+                            src="https://pbs.twimg.com/media/Bx1BbXGCcAAnWQT?format=jpg&name=small"
                             alt="Placeholder"
                             className="rounded-lg shadow-lg w-full max-w-sm"
                         />
